@@ -1,0 +1,6 @@
+First a window should be made as a user interface, where a person can select whether to start the game, continue a game or log out/quit
+
+Once a game is started the player will be greeted by text explaining the situation of the first room/starting room and any items that may be within it. 
+It may also be important to supply a command window/help window that will show the possible commands the player can use in order to use/pick up items and traverse the dungeon
+
+Initial starting room with minimal iteams can be stored
